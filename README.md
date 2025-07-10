@@ -12,11 +12,11 @@ The site is dedicated to bread — featuring images, text, and basic styling.
 ## Technologies Used
 - HTML
 - CSS
-- JS
+- JavaScript
 
 ## How to Run
 Just open the `index.html` file in any modern web browser.
-or here is link: [https://taras-bilyk.github.io/bread_site/](https://taras-bilyk.github.io/bread_site/)
+<div>Or try it online: [https://taras-bilyk.github.io/bread_site/](https://taras-bilyk.github.io/bread_site/)</div>
 
 ## Project Structure
 - `index.html` — main page
