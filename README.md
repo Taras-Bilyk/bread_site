@@ -7,7 +7,7 @@ This project was made to revisit the basics of HTML and CSS layout.
 The site is dedicated to bread — featuring images, text, and basic styling.
 
 ## Screenshots
-<img src="img/screenshots/screenshot_1.png" width="200" height="100">
+<img src="img/screenshots/screenshot_1.png" width="400" height="200">
 
 ## Technologies Used
 - HTML
