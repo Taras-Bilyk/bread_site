@@ -16,7 +16,8 @@ The site is dedicated to bread — featuring images, text, and basic styling.
 
 ## How to Run
 Just open the `index.html` file in any modern web browser.
-<div>Or try it online: [https://taras-bilyk.github.io/bread_site/](https://taras-bilyk.github.io/bread_site/)</div>
+<div>Or visit the site here: <a href="https://taras-bilyk.github.io/bread_site/">https://taras-bilyk.github.io/bread_site/</a></div>
+
 
 ## Project Structure
 - `index.html` — main page
